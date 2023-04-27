@@ -102,8 +102,8 @@ for i in range(0,9):
 ### Global Thresholding
 ![](tb.png)
 ![](tbi.png)
-![](tz.png)
 ![](tzi.png)
+![](tz.png)
 ![](tt.png)
 ### Adaptive Thresholding
 ![](am.png)
